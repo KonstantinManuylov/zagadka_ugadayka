@@ -42,7 +42,7 @@ if (tries > 3)
         Console.WriteLine("Не получилось. Два полцарства остались у меня :)");
     }
 
-int RandomInt(int numA)
-{
-    return new Random().Next(1, 10);
-}
+//int RandomInt(int numA)
+//{
+//    return new Random().Next(1, 10);
+//}
